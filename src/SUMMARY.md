@@ -1,4 +1,3 @@
 [Driftcell](README.md)
 
-[Life Log](life.md)
-
+[Work Log](work.md)

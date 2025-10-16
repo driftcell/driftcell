@@ -1,6 +1,6 @@
-## driftcell's life log
+## driftcell's work log
 
-This contains my life activity since 2025-10-16
+This contains my work activities since 2025-10-16
 
 ---
 
