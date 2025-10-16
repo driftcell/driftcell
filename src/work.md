@@ -16,3 +16,4 @@ This contains my work activities since 2025-10-16
 - Clock out (HengtianSoft)
 - Fix web of bozhiyunyu
 - Created a baidu entry
+- Setup a company email
