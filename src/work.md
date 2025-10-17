@@ -11,6 +11,7 @@ This contains my work activities since 2025-10-16
 - 💬 Support giscus for this website
 - Transfer kks repos to official account
 - Setup prod env of railway and vercel for kks
+- Huge refactor of report part of paygo
 
 ---
 
