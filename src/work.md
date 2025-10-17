@@ -8,6 +8,7 @@ This contains my work activities since 2025-10-16
 
 - Clock in (HengtianSoft)
 - 9:27 AM
+- 💬 Support giscus for this website
 
 ---
 
@@ -22,5 +23,5 @@ This contains my work activities since 2025-10-16
 - 6:20 PM
 - Clock out (HengtianSoft)
 - Fix web of bozhiyunyu
-- Created a baidu entry
-- Setup a company email
+- Create a baidu entry for bozhiyunyu
+- Setup a company email for bozhiyunyu
