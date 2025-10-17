@@ -1,3 +1,3 @@
-[Driftcell](README.md)
+[Introduction](README.md)
 
 [Work Log](work.md)
