@@ -9,6 +9,8 @@ This contains my work activities since 2025-10-16
 - Clock in (HengtianSoft)
 - 9:27 AM
 - 💬 Support giscus for this website
+- Transfer kks repos to official account
+- Setup prod env of railway and vercel for kks
 
 ---
 
