@@ -2,6 +2,8 @@
 
 This contains my work activities since 2025-10-16
 
+---
+
 ## 2025-10-17
 
 - Clock in (HengtianSoft)
