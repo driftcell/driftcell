@@ -4,6 +4,12 @@ This contains my work activities since 2025-10-16
 
 ---
 
+## 2025-10-18
+
+
+
+---
+
 ## 2025-10-17
 
 - Clock in (HengtianSoft)
@@ -14,6 +20,7 @@ This contains my work activities since 2025-10-16
 - Huge refactor of report part of paygo
 - 6:25 PM
 - Clock out (HengtianSoft)
+- Final setup for kks and migrate to prod env 
 
 ---
 
