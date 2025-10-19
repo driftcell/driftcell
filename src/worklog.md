@@ -4,6 +4,12 @@ This contains my work activities since 2025-10-16
 
 ---
 
+## 2025-10-19
+
+- Hacking on leetcode daily question [2025-10-19](https://leetcode.cn/problems/lexicographically-smallest-string-after-applying-operations/?envType=daily-question&envId=2025-10-19)
+
+---
+
 ## 2025-10-18
 
 - Hacking on leetcode daily question [2025-8-18](https://leetcode.cn/problems/maximum-number-of-distinct-elements-after-operations/description/?envType=daily-question&envId=2025-8-18)
