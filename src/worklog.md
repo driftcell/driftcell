@@ -4,9 +4,19 @@ This contains my work activities since 2025-10-16
 
 ---
 
+## 2025-10-20
+
+- Hacking on leetcode daily question [2025-10-20](https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/?envType=daily-question&envId=2025-10-20)
+- Clock in (HengtianSoft)
+- 9:20 AM
+- Fix report exporter part
+
+---
+
 ## 2025-10-19
 
 - Hacking on leetcode daily question [2025-10-19](https://leetcode.cn/problems/lexicographically-smallest-string-after-applying-operations/?envType=daily-question&envId=2025-10-19)
+- College roommates gathering
 
 ---
 
