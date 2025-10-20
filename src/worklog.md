@@ -10,6 +10,8 @@ This contains my work activities since 2025-10-16
 - Clock in (HengtianSoft)
 - 9:20 AM
 - Fix report exporter part
+- 6:20 PM
+- Clock out(HengtianSoft)
 
 ---
 
