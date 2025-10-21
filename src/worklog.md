@@ -9,6 +9,9 @@ This contains my work activities since 2025-10-16
 - Clock in (HengtianSoft)
 - 9:30 AM
 - Migrate report exporter to use store procedure
+- Hacking on leetcode daily question [2025-10-21](https://leetcode.cn/problems/maximum-frequency-of-an-element-after-performing-operations-i/description/?envType=daily-question&envId=2025-10-21)
+- 6:20 AM
+- Clock out (HengtianSoft)
 
 ---
 
