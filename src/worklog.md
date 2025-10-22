@@ -4,6 +4,14 @@ This contains my work activities since 2025-10-16
 
 ---
 
+## 2025-10-22
+
+- Hacking on leetcode daily question [2025-10-22](https://leetcode.cn/problems/maximum-frequency-of-an-element-after-performing-operations-ii/?envType=daily-question&envId=2025-10-22)
+- Clock in (HengtianSoft)
+- 9:25 AM
+
+---
+
 ## 2025-10-21
 
 - Clock in (HengtianSoft)
@@ -36,7 +44,7 @@ This contains my work activities since 2025-10-16
 
 ## 2025-10-18
 
-- Hacking on leetcode daily question [2025-8-18](https://leetcode.cn/problems/maximum-number-of-distinct-elements-after-operations/description/?envType=daily-question&envId=2025-8-18)
+- Hacking on leetcode daily question [2025-10-18](https://leetcode.cn/problems/maximum-number-of-distinct-elements-after-operations/description/?envType=daily-question&envId=2025-10-18)
 
 ---
 
@@ -58,7 +66,7 @@ This contains my work activities since 2025-10-16
 
 - Clock in (HengtianSoft)
 - 9:25 AM
-- Hacking on leetcode daily question [smallest-missing-non-negative-integer-after-operations](https://leetcode.cn/problems/smallest-missing-non-negative-integer-after-operations/description/?envType=daily-question&envId=2025-10-16)
+- Hacking on leetcode daily question [2025-10-16](https://leetcode.cn/problems/smallest-missing-non-negative-integer-after-operations/description/?envType=daily-question&envId=2025-10-16)
 - Clean up my github repos, including transfer repos to correct org
 - Hacking on Paygo project, and fix rep part of billing
 - Build this website (17:45)
