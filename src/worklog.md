@@ -10,6 +10,8 @@ This contains my work activities since 2025-10-16
 - 9:30 AM
 - Hacking on [2025-10-23](https://leetcode.cn/problems/check-if-digits-are-equal-in-string-after-operations-i/?envType=daily-question&envId=2025-10-23)
   - Introduce `windows`,`chunk*` functions
+- Clock out (HengtianSoft)
+- 6:20 PM
 
 ---
 
