@@ -10,7 +10,9 @@ This contains my work activities since 2025-10-16
 - 9:20 AM
 - Hacking on [2025-10-24](https://leetcode.cn/problems/next-greater-numerically-balanced-number/?envType=daily-question&envId=2025-10-24)
 - Setup prod server for api and web
-- Migrate sms ivr part to paygo api
+- Migrate sms and notification ivr part to paygo api
+- Clock out (HengtianSoft)
+- 6:30 PM
 
 ---
 
