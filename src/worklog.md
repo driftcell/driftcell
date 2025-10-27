@@ -4,6 +4,27 @@ This contains my work activities since 2025-10-16
 
 ---
 
+## 2025-10-27
+
+- Clock in (HengtianSoft)
+- 9:30 AM
+- Leetcode daily question, familar with `fold`
+
+---
+
+## 2025-10-26
+
+- Attend 1024 programmer contest in HengtianSoft
+- Leetcode daily question 2025-10-25 -> 2025-10-26
+
+---
+
+## 2025-10-25
+
+- Gap day
+
+---
+
 ## 2025-10-24
 
 - Clock in (HengtianSoft)
