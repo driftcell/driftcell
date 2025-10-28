@@ -4,11 +4,23 @@ This contains my work activities since 2025-10-16
 
 ---
 
+## 2025-10-28
+
+- Clock in (HengtianSoft)
+- 9:30 AM
+- Leetcode daily question
+- Testing whole system before delivery
+- Review `zed` code, learn `COBS` in colab part
+
+---
+
 ## 2025-10-27
 
 - Clock in (HengtianSoft)
 - 9:30 AM
 - Leetcode daily question, familar with `fold`
+- Clock out (HengtianSoft)
+- 7:30 PM
 
 ---
 
