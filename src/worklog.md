@@ -11,6 +11,8 @@ This contains my work activities since 2025-10-16
 - Leetcode daily question
 - Testing whole system before delivery
 - Review `zed` code, learn `COBS` in colab part
+- Clock out (HengtianSoft)
+- 6:25 PM
 
 ---
 
