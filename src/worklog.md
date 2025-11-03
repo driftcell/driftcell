@@ -2,6 +2,57 @@
 
 This contains my work activities since 2025-10-16
 
+## 2025-11-3
+
+- Clock in (HengtianSoft)
+- 8:55 AM
+- Leetcode daily question
+
+---
+
+## 2025-11-2
+
+- Leetcode daily question
+
+---
+
+## 2025-11-1
+
+- Leetcode daily question
+
+---
+
+## 2025-10-31
+
+- Clock in (HengtianSoft)
+- 9:30 AM
+- Leetcode daily question
+- Play playwright, ugh!
+- Clock out (HengtianSoft)
+- 6:25 PM
+
+---
+
+## 2025-10-30
+
+- Clock in (HengtianSoft)
+- 9:30 AM
+- Leetcode daily question
+- Play playwright, ugh!
+- Clock out (HengtianSoft)
+- 6:25 PM
+
+---
+
+## 2025-10-29
+
+- Clock in (HengtianSoft)
+- 9:30 AM
+- Leetcode daily question
+- Play playwright, ugh!
+- Clock out (HengtianSoft)
+- 6:25 PM
+
 ---
 
 ## 2025-10-28
