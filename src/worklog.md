@@ -2,6 +2,27 @@
 
 This contains my work activities since 2025-10-16
 
+---
+
+## 2025-11-5
+
+- Clock in (HengtianSoft)
+- 9:00 AM
+- Leetcode daily question
+
+---
+
+## 2025-11-4
+
+- Clock in (HengtianSoft)
+- 9:00 AM
+- Leetcode daily question
+- Config github workflows and repo rules
+- Clock out (HengtianSoft)
+- 6:00 PM
+
+---
+
 ## 2025-11-3
 
 - Clock in (HengtianSoft)
