@@ -2,6 +2,39 @@
 
 This contains my work activities since 2025-10-16
 
+## 2025-11-10
+
+- Refactor Paygo system to use more dependence injections
+- Fix more type system warnings
+
+---
+
+
+## 2025-11-9
+
+- Play in Changsha
+
+---
+
+
+## 2025-11-8
+
+- Play in Changsha
+
+---
+
+
+## 2025-11-7
+
+- Play in Changsha
+
+---
+
+
+## 2025-11-6
+
+- Parpare to Changsha
+
 ---
 
 ## 2025-11-5
