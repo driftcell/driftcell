@@ -2,6 +2,15 @@
 
 This contains my work activities since 2025-10-16
 
+## 2025-11-11 -> 2025-11-17
+
+- Nothing todo but randomly refactor the system, due to the previous designs,
+there are lots of things to optimize, like async design and type system correctness.
+- For the part time job company, I developed some new api for the wechat miniprogram, but still have lots of things to do.
+- Still clock in Hengtian and clock out Hengtian.
+
+---
+
 ## 2025-11-10
 
 - Refactor Paygo system to use more dependence injections
@@ -9,13 +18,11 @@ This contains my work activities since 2025-10-16
 
 ---
 
-
 ## 2025-11-9
 
 - Play in Changsha
 
 ---
-
 
 ## 2025-11-8
 
@@ -23,13 +30,11 @@ This contains my work activities since 2025-10-16
 
 ---
 
-
 ## 2025-11-7
 
 - Play in Changsha
 
 ---
-
 
 ## 2025-11-6
 
