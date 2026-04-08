@@ -10,8 +10,5 @@ additional-css = ["theme/custom.css"]
 [output.html.print]
 enable = false
 
-[output.html.fold]
-enable = true
-
 [rust]
 edition = "2024"
