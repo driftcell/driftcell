@@ -1,5 +1,17 @@
 [book]
-authors = ["driftcell"]
-language = "en"
-src = "src"
-title = "Driftcell"
+authors = ["Driftcell"]
+language = "zh-CN"
+title = "逃生舱 | Driftcell"
+description = "一个后端工程师的逃生舱。Rust、Python、FastAPI、类型系统，和那些值得认真写下来的东西。"
+
+[output.html]
+additional-css = ["theme/custom.css"]
+
+[output.html.print]
+enable = false
+
+[output.html.fold]
+enable = true
+
+[rust]
+edition = "2024"

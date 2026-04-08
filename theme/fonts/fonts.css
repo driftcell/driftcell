@@ -1,0 +1,15 @@
+/* LXGW WenKai - 中文正文 */
+@font-face {
+    font-family: 'LXGW WenKai';
+    font-style: normal;
+    font-weight: 400;
+    src: url('{{ resource "fonts/LXGWWenKai-Regular.ttf" }}') format('truetype');
+}
+
+/* Cascadia Code NF - 代码字体 */
+@font-face {
+    font-family: 'Cascadia Code NF';
+    font-style: normal;
+    font-weight: 400;
+    src: url('{{ resource "fonts/CascadiaCodeNF.ttf" }}') format('truetype');
+}

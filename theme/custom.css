@@ -1,0 +1,14 @@
+.content {
+    font-family: "LXGW WenKai", sans-serif;
+    line-height: 1.65;
+}
+
+h1, h2, h3, h4 {
+    font-family: "LXGW WenKai", sans-serif;
+    font-weight: 400;
+}
+
+code, pre > code {
+    font-family: "Cascadia Code NF", monospace;
+    font-size: 0.88em;
+}
