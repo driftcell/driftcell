@@ -81,6 +81,8 @@ html.sidebar-visible #mdbook-menu-bar {
 }
 
 .right-buttons {
+    display: flex;
+    align-items: center;
     margin: 0 15px;
 }
 .right-buttons a {

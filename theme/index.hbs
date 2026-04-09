@@ -45,6 +45,17 @@
         <link rel="stylesheet" href="{{ resource this }}">
         {{/each}}
 
+        <!-- Live Cursors -->
+        <script
+          src="https://live-cursors.driftcell.dev/embed.js"
+          data-presence="#live-cursors-presence"
+          data-container="main"
+          data-show-cursors="true"
+          data-show-presence="true"
+          data-count-anonymous="true"
+          data-throttle="50"
+        ></script>
+
         {{#if mathjax_support}}
         <!-- MathJax -->
         <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
@@ -167,6 +178,7 @@
                     <h1 class="menu-title">{{ book_title }}</h1>
 
                     <div class="right-buttons">
+                        <div id="live-cursors-presence"></div>
                         {{#if print_enable}}
                         <a href="{{ path_to_root }}print.html" title="Print this book" aria-label="Print this book">
                             {{fa "solid" "print" "print-button"}}
