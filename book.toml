@@ -3,6 +3,7 @@ authors = ["Driftcell"]
 language = "zh-CN"
 title = "逃生舱 | Driftcell"
 description = "一个后端工程师的逃生舱。Rust、Python、FastAPI、类型系统，和那些值得认真写下来的东西。"
+src = "src"
 
 [output.html]
 additional-css = ["theme/custom.css"]
